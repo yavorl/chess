@@ -1,3 +1,5 @@
+[<img alt="Bounties by kinti.io" src="https://img.shields.io/badge/Bounties%20by%20kinti.io%20-20B2AA?style=for-the-badge" />](https://kinti.io/yavorl/chess)
+
 ![](https://github.com/kernel-panic96/chess/workflows/Build/badge.svg)
 [![chess/ coverage](https://codecov.io/gh/kernel-panic96/chess/branch/master/graph/badge.svg)](https://codecov.io/gh/kernel-panic96/chess)
 
